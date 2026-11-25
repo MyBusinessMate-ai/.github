@@ -1,9 +1,9 @@
 ![MyBusinessMate AI & Engineering](./banner.png)
 
-# MyBusinessMate Open Source Tools
+# MyBusinessMate
 
 This is where [MyBusinessMate](https://www.mybusinessmate.ai)
-builds in the open — AI-powered tools, intelligent automations,
+builds in the AI-powered tools, intelligent automations,
 and digital growth solutions designed to help businesses
 build, market, automate, manage, and grow.
 
