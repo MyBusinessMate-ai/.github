@@ -1,4 +1,4 @@
-![MyBusinessMate AI & Engineering](./banner.png)
+
 
 # MyBusinessMate
 
